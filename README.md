@@ -63,8 +63,8 @@ Debrief
 
 Контакты
 ========
-![photo](https://previews.dropbox.com/p/thumb/AA7ukaL-F7MVzTHBJwby3k9iRDN3uvwAe_7W1Uju9zKRLi4b7SOQQtLYz8qXeTeu5ignJULyssRLoVaOyO5Nq-5n3xNVCzJe9zy87l6fMKEZeagASQnZEcwux9Uts7lpre26qVDlfndeeFD4DMlQsOjLWH89sLbCgVG5h7eAH-ZPE1jiiSVMuoO_JGGmJv9PslLgdvN9Rk5EnfteuO9kovNOXbJqSpVVtFhMxE8ob6gwN4kx1MnHHUeV6MvEHc6qkyPLgQkxrErS2THXfdEgMyr3zKZHLFhD1aGNMgVO16JGfI3mK62dh6uhrE9r7bxvBj8-Q9aqpZgKhUHrV1WjsNSJ/p.jpeg?fv_content=true&size_mode=5)
 [Кривошеев Евгений](http://ekrcv.page.link/qL6j), независимый консультант.
+![photo](img/photo.jpg) 
 
 Евгений имеет более чем 15-летний практический опыт в области проектирования и развития архитектур систем и управления продуктами различной степени сложности. С первого курса университета начал заниматься интеграцией и разработкой ПО на заказ. Прошёл полный карьерный путь в индустрии разработки ПО: разработка, обеспечение качества, взаимодействие с клиентами, управление командой разработки, управление продуктом, генеральный директор, владелец продуктовой it-компании.
 Среди клиентов по консалтингу и обучению: ДойчеБанк, РайффайзенБанк, Qiwi. В клиентах компании - Сбербанк, РосБанк.
